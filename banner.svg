@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Younes — Backend and AI/ML Engineer</title>
+  <desc id="desc">Neo-brutalist typography with a cream background, heavy black borders, an acid-yellow skills panel, and a pink name highlight.</desc>
+  <rect width="1200" height="460" fill="#f4f0e7"/>
+  <rect x="30" y="30" width="1150" height="410" fill="#161616"/>
+  <rect x="16" y="16" width="1150" height="410" fill="#f4f0e7" stroke="#161616" stroke-width="6"/>
+  <path d="M16 82H1166" stroke="#161616" stroke-width="6"/>
+  <g fill="#161616" font-family="'Courier New',monospace" font-size="20" font-weight="700">
+    <text x="46" y="58">MOHAMEDAY2004 / ENGINEERING</text>
+    <text x="1128" y="58" text-anchor="end">CAIRO, EGYPT</text>
+  </g>
+  <rect x="47" y="243" width="626" height="104" fill="#ff9bd2"/>
+  <g fill="#161616" font-family="'Arial Black',Arial,Helvetica,sans-serif" font-size="100" font-weight="900" letter-spacing="-5">
+    <text x="44" y="224">MOHAMED</text>
+    <text x="44" y="328">YOUNES.</text>
+  </g>
+  <text x="48" y="390" fill="#161616" font-family="'Courier New',monospace" font-size="23" font-weight="700">I BUILD THINGS THAT ACTUALLY WORK.</text>
+  <rect x="785" y="129" width="337" height="260" fill="#161616"/>
+  <rect x="773" y="117" width="337" height="260" fill="#dfff00" stroke="#161616" stroke-width="6"/>
+  <g fill="#161616" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="900" letter-spacing="-1">
+    <text x="800" y="186">BACKEND</text>
+    <text x="800" y="257">AI / ML</text>
+    <text x="800" y="328">ALGORITHMS</text>
+  </g>
+  <g stroke="#161616" stroke-width="4">
+    <path d="M798 206H1085"/>
+    <path d="M798 277H1085"/>
+  </g>
+</svg>
